@@ -1,2 +1,4 @@
 # Mapping_Earthquakes
-d
+
+
+![Earthquake_Challenge/images/styleDark.png](Earthquake_Challenge/images/styleDark.png)
